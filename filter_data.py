@@ -1,6 +1,3 @@
-from concurrent.futures.thread import _worker
-
-
 DATA = [
     {
         'name': 'Facundo',
